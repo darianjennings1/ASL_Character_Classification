@@ -21,6 +21,8 @@
 </p>
 
 
+<img width="638" alt="asl_examples" src="https://github.com/darianjennings1/ASLclassification/assets/59739081/b8234f5d-8642-4ce1-b209-a8ae0f2fb1d9">
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
